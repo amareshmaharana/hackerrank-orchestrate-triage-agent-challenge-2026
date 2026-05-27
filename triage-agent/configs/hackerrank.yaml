@@ -1,0 +1,4 @@
+domain:
+  name: hackerrank
+  chunk_size: 800
+  chunk_overlap: 100
