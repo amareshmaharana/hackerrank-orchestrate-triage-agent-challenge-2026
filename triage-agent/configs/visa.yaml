@@ -1,0 +1,4 @@
+domain:
+  name: visa
+  chunk_size: 700
+  chunk_overlap: 100
