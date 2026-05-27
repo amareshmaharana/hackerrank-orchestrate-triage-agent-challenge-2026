@@ -1,0 +1,3 @@
+Grounding Check Template
+
+Verify that the answer is fully supported by the retrieved documents. List the key supporting snippets and their sources. If support is insufficient, do NOT provide an answer — escalate or refuse according to policy.
