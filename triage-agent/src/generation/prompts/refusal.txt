@@ -1,0 +1,9 @@
+Refusal Template
+
+We cannot answer this request because the required information is not present in the provided documentation, or the request contains sensitive information that must be handled by a human agent.
+
+Suggested next steps for the user:
+- We will escalate this ticket to the appropriate support team.
+- Please do not share additional sensitive personal information in this chat.
+
+Escalation note for agents: include the user's message, any detected PII, and retrieved sources that partially match.
