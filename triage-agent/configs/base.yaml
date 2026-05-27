@@ -1,0 +1,13 @@
+model:
+  embed_model: all-MiniLM-L6-v2
+retrieval:
+  bm25_topk: 10
+  vector_topk: 10
+  fusion_topk: 10
+thresholds:
+  escalation: 0.4
+  confidence: 0.5
+paths:
+  data_root: data
+  index_root: data/index
+  processed_root: data/processed
