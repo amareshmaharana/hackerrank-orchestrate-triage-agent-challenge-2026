@@ -1,0 +1,4 @@
+domain:
+  name: claude_help
+  chunk_size: 900
+  chunk_overlap: 150
