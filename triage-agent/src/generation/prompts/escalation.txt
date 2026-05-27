@@ -1,0 +1,12 @@
+Escalation Template
+
+This ticket requires human review.
+
+Context:
+- User message: {user_message}
+- Detected PII: {pii}
+- Risk score: {risk}
+- Retrieval confidence: {confidence}
+- Top retrieved: {top_sources}
+
+Action: Please review and take appropriate action.
